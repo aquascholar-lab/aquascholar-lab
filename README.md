@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=aquascholar-lab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F111127925%3Fu%3D64825bd5881a1663e4a0555ebb7d46a89a8ea56a%26v%3D4" alt="aquascholar-lab hero visual" />
 </p>
 
-<p align="center"><b>Dr Sachchidanand Singh</b> · Frontend or full-stack engineer<br/><sub>Assistant Professor @ IIT Mandi</sub></p>
+<p align="center"><b>Dr Sachchidanand Singh</b> · Civil Engineer <br/><sub>Assistant Professor @ IIT Mandi</sub></p>
 
 <p align="center"><a href="https://github.com/aquascholar-lab">GitHub</a> · <a href="https://www.aquascholar.in/">Website</a></p>
 
